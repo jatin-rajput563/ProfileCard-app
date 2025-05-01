@@ -1,0 +1,45 @@
+.min-vh-100 {
+    min-height: 90vh !important;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.container {
+    max-width: 1440px !important;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card {
+    max-width: 300px;
+    border: 1px solid black;
+    padding: 24px;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.gap-24 {
+    gap: 24px;
+}
